@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438453356510",
+    "project_id": "signinauth-d0a3c",
+    "storage_bucket": "signinauth-d0a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438453356510:android:4147d3b0f7006905edbf4f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_google_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ptbxpGJ3va_xNoSY2mKW2qxg6c66wp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
