@@ -1,7 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_google_signin/firebase_options.dart';
-import 'package:flutter_google_signin/pages/HomePage.dart';
+import 'package:flutter_google_signin/pages/home_page.dart';
 
 Future<void> main() async{
   WidgetsFlutterBinding.ensureInitialized();
